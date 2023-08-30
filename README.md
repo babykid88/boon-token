@@ -11,3 +11,4 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+Youtube video: https://www.youtube.com/watch?v=gc7e90MHvl8
